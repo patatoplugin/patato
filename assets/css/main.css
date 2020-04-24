@@ -35,6 +35,7 @@ body {
 
 ol, ul {
 	list-style: none;
+	/* ul和ol不显示远点 */
 }
 
 blockquote, q {
